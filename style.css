@@ -1,0 +1,96 @@
+
+html{
+    height: 100%;
+}
+
+body {
+    background-repeat: no-repeat !important; 
+    background-image: url('deoprodaul.jpg');
+}
+
+a{
+    color: rgba(14,122,0);
+}
+/*
+input[type='password']{
+    background-color: #38ef7d;
+    color: white;
+}
+
+input[type='password']:hover{
+    background-color: #38ef7d
+    color:white;
+}
+
+input[type='tel']{
+    /*background-color: rgba(0,0,0,0.3);
+    background-color: #38ef7d;
+    color: white;
+}
+
+input[type='tel']:hover{
+    /*background-color: rgba(0,0,0,0.3); 
+    background-color:#38ef7d;
+    color:white;
+}
+
+*/
+
+label{
+    color : white;
+}
+
+input[type='submit']{
+    color:#11998e;
+    background-color: #38ef7d;
+    border: 2px #38ef7d solid; 
+}
+
+input[type='submit']:hover{
+
+    color:#38ef7d;
+    background-color: #11998e;
+    border: 2px #38ef7d solid; 
+}
+
+
+.can{
+    padding: 20PX 100px !important;
+    margin-left: 209px !important;
+    margin-right: 209px! important;
+    max-width: 870px !important;
+
+}
+
+.heading{
+    align-content: center;
+    margin: 30px 209px;
+    padding: 10px 300px;
+}
+
+
+.navbar{
+    color: white;
+    background-color: #22bf87;
+}
+
+
+.card-color{
+    color: rgb(14, 122, 0);
+    background-color: white;
+}
+
+.btn-size{
+    width: 223px;
+}
+
+.contains{
+    background-color: rgba(0,0,0,0.3);
+}
+
+.item-grid{
+    grid-column-gap:50px;
+    grid-row-gap: 50px;
+    grid-column : 3;
+    grid-row: 3;
+}
